@@ -1,0 +1,154 @@
+{
+  "Header": {
+    "title": "Welcome to StartCom",
+    "paragraph": "StartCom gives you a chance to express your ideas to the ever-growing world and also to become part of this community."
+  },
+  "About": {
+    "paragraph": "Startcom is a website started in 2020 by five engineering students. This website enables students to express their ideas and interact with the ever-growing community. Users can share different posts and thoughts which allows the followers to react and comment to their posts.",
+    "Why": [
+       "Fast Growing community",
+      "Easy interactibilty",
+      "Secure"
+    ],
+    "Why2": [
+      "Easy to express your ideas",
+      "Quick chat interface" 
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Groups",
+      "text": "User can colloborate with another user by forming groups if he/she likes the idea"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Connectivity",
+      "text": "This platform helps to connect Startup aspirants"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Privacy",
+      "text": "Everyone has their own privacy about their ideas and information"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Individuality",
+      "text": "Each individual has their own pertained account"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Community",
+      "text": "join the best community to nurture your idea"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Pages",
+      "text": "User can create pages and express their ideas efficiently with the help of images, links etc.."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "630, Gnan Marg Sri City, Sathyavedu, Andhra Pradesh 517646 ",
+    "phone": "+1 123 456 1234",
+    "email": "StartCom@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Chat interface",
+      "text": "You can easily chat with different peers across the world and discuss your startup ideas efficiently"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Interactivity",
+      "text": "you can follow different people to know and travel along with them and get to know about their thoughts."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Posts",
+      "text": "you can post your ideas with some captions which allows your followers to react and comment to the posts."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Security",
+      "text": "Operate your profile as your wish but there will be no compromise in the security"
+    }
+  ]
+}
