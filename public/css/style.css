@@ -590,10 +590,11 @@ label {
 }
 #footer p {
   color: rgb(0, 0, 0);
-  font-size: 19px;
+  font-size: 25px;
 } 
 #footer p:hover {
-  background: linear-gradient(to right, #63ff82 0%, #5cfb9c 100%);
+   color: rgb(34,185,105);
+  font-size: 25px;
 }
 
 @media (max-width: 768px) {
